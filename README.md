@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ben Henda Youssef</h1>
 <h3 align="center">A passionate Machine Learning Developer.</h3>
-
+img align="right" alt="Coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif"
 - 🔭 I’m currently working on **Robot Guard**
 
 - 🌱 I’m currently learning **TensorFlow**
