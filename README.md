@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benhendayoussef
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning flutter 
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me...
 
