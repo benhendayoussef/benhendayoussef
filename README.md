@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Youssef from Tunisia<br><br>- 🔭 I’m working as Freelancer<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I play Valorant</p>
+<p align="left">I'm Youssef from Tunisia<br><br>- 🔭 I’m working as Freelancer<br>- 📚 I'm currently learning Kotlin</p>
 
 ###
 
@@ -34,8 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
