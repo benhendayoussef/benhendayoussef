@@ -37,10 +37,10 @@
 - MVVM Architecture · Retrofit · Firebase · Push Notifications · Coil  
 - 👨‍💻 *Frontend*: Youssef  
 - 🌐 *Backend*: Helmi & Naycem  
-- 🌍 [Presentation](https://youssefbenhenda.vercel.app/static/media/9.23e4906cd5c967a39df6.png)
+- 🌍 [Presentation](https://www.linkedin.com/posts/youssef-ben-henda-384116240_androiddev-kotlin-jetpackcompose-activity-7325846725196222464-ratl?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvRR5QBKqkYISplhFgAxesTZ8kcBUzt1Dc)
 
 <div align="center">
-  <img src="assets/issatso.png" height="200" />
+  <img src="https://youssefbenhenda.vercel.app/static/media/9.23e4906cd5c967a39df6.png" height="200" />
 </div>
 
 ---
@@ -51,10 +51,10 @@
 - **Frontend**: Java (Android) + C# (Dashboard)  
 - **Backend**: Node.js (Helmi & Anas)  
 - UI by Achraf Bouchalghouma  
-- 📱 [Google Play](https://lnkd.in/eXX6u7XQ)
+- 📱 [Google Play](https://play.google.com/store/apps/details?id=com.Focojem.focojem)
 
 <div align="center">
-  <img src="assets/focojem.png" height="200" />
+  <img src="https://youssefbenhenda.vercel.app/static/media/1.0912fafaa048d31e4b2a.jpeg" height="200" />
 </div>
 
 ---
@@ -66,9 +66,10 @@
 - Flask + TensorFlow for AI quiz generation  
 - News feed & personalized question adaptation  
 - 👨‍💻 *Frontend & AI*: Youssef · *Backend*: Helmi
-
+- 🌍 [Presentation](https://www.linkedin.com/posts/youssef-ben-henda-384116240_quizzini-ai-edtech-activity-7276560289448222720-DG1J?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvRR5QBKqkYISplhFgAxesTZ8kcBUzt1Dc)
+- 
 <div align="center">
-  <img src="assets/quizzini.png" height="200" />
+  <img src="https://youssefbenhenda.vercel.app/static/media/1.514de3180a3ac9b6fcb3.png" height="200" />
 </div>
 
 ---
@@ -78,7 +79,9 @@
 
 - Kotlin · Jetpack Compose · TensorFlow · Flask  
 - PostgreSQL · Spring Boot backend by Helmi
-
+<div align="center">
+  <img src="https://youssefbenhenda.vercel.app/static/media/9.23e4906cd5c967a39df6.png" height="200" />
+</div>
 ---
 
 #### 🍕 Deliziami POS 🇮🇹
@@ -88,9 +91,9 @@
 - Backend: Node.js + Express · Firebase  
 - WebSocket real-time updates · Multi-Windows support  
 - Fully localized for Italian workflow
-
+- 🌍 [Presentation](https://www.linkedin.com/posts/youssef-ben-henda-384116240_csharp-wpf-nodejs-activity-7269775457632358402-RFTx?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvRR5QBKqkYISplhFgAxesTZ8kcBUzt1Dc)
 <div align="center">
-  <img src="assets/deliziami.png" height="200" />
+  <img src="https://youssefbenhenda.vercel.app/static/media/1.abef11e04f32a11b3ac3.jpg" height="200" />
 </div>
 
 ---
