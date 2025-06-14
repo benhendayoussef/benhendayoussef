@@ -1,90 +1,134 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/106392297?v=4"  />
+  <img height="150" src="https://avatars.githubusercontent.com/u/106392297?v=4" />
 </div>
 
-
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <a href="https://youssefbenhenda.vercel.app/" target="blank">
-  <img src="https://img.shields.io/static/v1?message=Link&logo=Link&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Link logo"  />
+  <a href="https://www.linkedin.com/in/benhendayoussef/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://youssefbenhenda.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi 👋 I'm Youssef Ben Henda</h1>
 
-###
+<p align="center">A passionate full-stack and mobile developer from Tunisia 🇹🇳, building impactful applications in Kotlin, Java, C#, and beyond.</p>
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+### 🧠 About Me
 
-<p align="left">I'm Youssef from Tunisia<br><br>- 🔭 I’m working as Freelancer<br>- 📚 I'm currently learning Kotlin</p>
+- 📱 Android + Desktop App Developer
+- 🛠️ Passionate about scalable software and clean architecture
+- 💬 Always learning: Kotlin, AI, and Jetpack Compose
+- 🤝 Currently open to freelance and collaboration opportunities
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+### 🚀 Featured Projects
 
-###
+#### 📚 ISSATSO++
+> A university app to enhance student life and academic collaboration.
+
+- **Android App** with Kotlin + Jetpack Compose  
+- MVVM Architecture · Retrofit · Firebase · Push Notifications · Coil  
+- 👨‍💻 *Frontend*: Youssef  
+- 🌐 *Backend*: Helmi & Naycem  
+- 🌍 [Presentation](https://youssefbenhenda.vercel.app/static/media/9.23e4906cd5c967a39df6.png)
+
+<div align="center">
+  <img src="assets/issatso.png" height="200" />
+</div>
+
+---
+
+#### 🔥 FocoJem
+> A smart mobile ordering app available on Google Play
+
+- **Frontend**: Java (Android) + C# (Dashboard)  
+- **Backend**: Node.js (Helmi & Anas)  
+- UI by Achraf Bouchalghouma  
+- 📱 [Google Play](https://lnkd.in/eXX6u7XQ)
+
+<div align="center">
+  <img src="assets/focojem.png" height="200" />
+</div>
+
+---
+
+#### 🧠 Quizzini (Educational)
+> AI-powered quizzes & programming chatbot
+
+- Kotlin + Jetpack Compose | Spring Boot Backend  
+- Flask + TensorFlow for AI quiz generation  
+- News feed & personalized question adaptation  
+- 👨‍💻 *Frontend & AI*: Youssef · *Backend*: Helmi
+
+<div align="center">
+  <img src="assets/quizzini.png" height="200" />
+</div>
+
+---
+
+#### 🧠 Quizzini Pro (Paused)
+> Professional version of Quizzini with cleaner UI and enterprise-grade AI
+
+- Kotlin · Jetpack Compose · TensorFlow · Flask  
+- PostgreSQL · Spring Boot backend by Helmi
+
+---
+
+#### 🍕 Deliziami POS 🇮🇹
+> Tailored Windows POS System for a client in Italy
+
+- Frontend: WPF & C# (.NET)  
+- Backend: Node.js + Express · Firebase  
+- WebSocket real-time updates · Multi-Windows support  
+- Fully localized for Italian workflow
+
+<div align="center">
+  <img src="assets/deliziami.png" height="200" />
+</div>
+
+---
+
+<h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="40" alt="nuget logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" />
+  <img src="https://developer.android.com/static/images/jetpack/compose-logo.svg" height="40" alt="Jetpack Compose logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
 </div>
 
-###
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=benhendayoussef&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=benhendayoussef&theme=dark&hide_border=false" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=benhendayoussef&show_icons=true&theme=dracula&hide_border=false" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=benhendayoussef&layout=compact&theme=dracula&hide_border=false" height="200" />
 </div>
 
-###
+---
+
+### 📈 Contribution Graph
+
 <div>
-    <img alt="DIMFLIX-OFFICIAL Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=benhendayoussef&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=benhendayoussef&bg_color=0D1117&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true" />
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benhendayoussef&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=benhendayoussef&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
