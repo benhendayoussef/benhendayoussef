@@ -69,7 +69,7 @@
 ### 📚 **ISSATSO++** - University Companion App
 <em>Enhancing student life through technology</em>
 
-<img src="https://youssefbenhenda.vercel.app/static/media/9.23e4906cd5c967a39df6.png" height="200" style="border-radius: 15px; margin: 15px; box-shadow: 0 8px 30px rgba(0,0,0,0.3);" />
+<img src="https://youssefbenhenda.vercel.app/static/media/preview1.0860b1f4514c6a7b29bd.png" height="200" style="border-radius: 15px; margin: 15px; box-shadow: 0 8px 30px rgba(0,0,0,0.3);" />
 
 <div align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -169,6 +169,8 @@
 
 ### 🚧 **Quizzini Pro** - Next Generation Learning
 <em>Professional version with enterprise-grade AI (In Development)</em>
+
+<img src="https://youssefbenhenda.vercel.app/static/media/9.23e4906cd5c967a39df6.png" height="200" style="border-radius: 15px; margin: 15px; box-shadow: 0 8px 30px rgba(0,0,0,0.3);" />
 
 <div align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
