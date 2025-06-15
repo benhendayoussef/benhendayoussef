@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Youssef%20Ben%20Henda&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20%26%20Mobile%20Developer&descAlignY=51&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,20&height=100&section=header" />
 </div>
+
 
 <div align="center">
   <img height="150" src="https://avatars.githubusercontent.com/u/106392297?v=4" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 10px 25px rgba(0, 217, 255, 0.3);" />
