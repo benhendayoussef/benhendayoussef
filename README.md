@@ -7,7 +7,7 @@
   <img height="150" src="https://avatars.githubusercontent.com/u/106392297?v=4" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 10px 25px rgba(0, 217, 255, 0.3);" />
   
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Youssef+Ben+Henda;🚀+Full-Stack+Developer;📱+Mobile+App+Specialist;🤖+AI+Enthusiast;🎯+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Youssef+Ben+Henda;🚀+software+Engineering+Student;📱+Mobile+App+Developer;🤖+AI+Enthusiast;🎯+Problem+Solver" alt="Typing SVG" />
   </h1>
   
   <p><em>🇹🇳 Building the Future with Code from Tunisia • Passionate about Clean Architecture & Scalable Solutions</em></p>
