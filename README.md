@@ -105,13 +105,10 @@
 **🎯 Key Features:**
 - 📱 Intuitive mobile ordering system
 - 🖥️ Admin dashboard for management
-- 💳 Secure payment integration
 - 📊 Real-time order tracking
 
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.Focojem.focojem)
-![Downloads](https://img.shields.io/badge/Downloads-1000%2B-success?style=for-the-badge)
-![Rating](https://img.shields.io/badge/Rating-4.5★-gold?style=for-the-badge)
 
 ---
 
