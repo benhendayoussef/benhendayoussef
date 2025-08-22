@@ -62,9 +62,27 @@
 ---
 
 
+
 ## 🚀 Featured Projects
 
 <div align="center">
+
+📚 XpresEats - Cross-Platform Food Delivery App
+
+<em>Hungry? We are already on the way.</em>
+
+<img src="https://youssefbenhenda.vercel.app/static/media/1.0992f5b40dda599e3838.jpg" height="200" style="border-radius: 15px; margin: 15px; box-shadow: 0 8px 30px rgba(0,0,0,0.3);" /> <div align="center"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Floor%20ORM-FF6B6B?style=for-the-badge&logo=database&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" /> </div>
+
+**🎯 Key Features:**
+- 📲 Cross-platform UI with Flutter (Android, iOS, Web)
+- 📦 Offline-first with Floor + SQLite (cache & sync)
+- 🔐 Secure Spring Boot REST API with JWT
+- 🌐 Swagger/OpenAPI for live API docs
+- 🛒 Menu browsing, cart, checkout & order tracking
+
+
+---
+
 
 ### 📚 **ISSATSO++** - University Companion App
 <em>Enhancing student life through technology</em>
